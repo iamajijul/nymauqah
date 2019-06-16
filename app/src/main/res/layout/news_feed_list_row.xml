@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/AppCardViewWithMarginTop"
+        android:padding="@dimen/mainLayoutPadingNormal">
+
+    <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+        <ImageView
+                android:id="@+id/newsFeedRow_imvImage"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="@dimen/_150sdp"/>
+
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:gravity="start|center_vertical"
+                android:orientation="horizontal">
+            <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/mainLayoutPadingNormal"
+                    android:clipToPadding="false"
+                    android:gravity="start"
+                    android:orientation="vertical">
+
+
+                <TextView
+                        android:id="@+id/newsFeedRow_tvSource"
+                        style="@style/RowTextView"
+                        android:inputType="none"
+                        android:text="@string/the_new_york_times"
+                        android:textAllCaps="true"
+                        android:textColor="@color/textColorBlack"
+                        android:textSize="@dimen/appNormalTextSize"
+                        android:textStyle="bold"/>
+
+                <TextView
+                        android:id="@+id/newsFeedRow_tvNewinShort"
+                        style="@style/MultiLineTextView"
+                        android:layout_marginTop="@dimen/verticalViewNormalSmallGap"
+                        android:gravity="start"
+                        android:layout_width="wrap_content"
+                        android:textSize="@dimen/appSmallTextSize"
+                        android:textStyle="bold"/>
+
+                <TextView
+                        android:id="@+id/newsFeedRow_tvNewsWrittenBy"
+                        style="@style/MultiLineTextView"
+                        android:layout_marginTop="@dimen/verticalViewNormalSmallGap"
+                        android:gravity="start"
+                        android:layout_width="wrap_content"
+                        android:textSize="@dimen/appVerySmallTextSize"/>
+            </LinearLayout>
+            <TextView
+                    android:id="@+id/newsFeedRow_tvDate"
+                    android:drawableTop="@drawable/calender"
+                    style="@style/RowTextView"
+                    android:drawablePadding="@dimen/_5sdp"
+                    android:paddingEnd="@dimen/mainLayoutPadingNormal"
+                    android:paddingStart="@dimen/mainLayoutPadingNormal"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

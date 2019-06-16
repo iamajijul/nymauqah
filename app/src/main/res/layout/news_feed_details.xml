@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+>
+
+    <data>
+
+        <variable
+                name="model"
+                type="com.ajijul.ny.news_feed.news_details.viewModel.NewsFeedsDetailsViewModel"/>
+    </data>
+    <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/appBackColor"
+            android:padding="@dimen/mainLayoutPadingNormal"
+            android:orientation="vertical">
+
+
+        <ImageView
+                android:id="@+id/newsFeedRow_imvImage"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                app:setBanner="@{model.newsResultModel}"
+                android:layout_height="@dimen/_150sdp"/>
+
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:gravity="start|center_vertical"
+                android:orientation="horizontal">
+            <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/mainLayoutPadingNormal"
+                    android:clipToPadding="false"
+                    android:gravity="start"
+                    android:orientation="vertical">
+
+
+                <TextView
+                        android:id="@+id/newsFeedRow_tvSource"
+                        style="@style/RowTextView"
+                        android:inputType="none"
+                        android:text="@{model.newsResultModel.source}"
+                        android:textAllCaps="true"
+                        android:textColor="@color/textColorBlack"
+                        android:textSize="@dimen/appNormalTextSize"
+                        android:textStyle="bold"/>
+
+                <TextView
+                        android:id="@+id/newsFeedRow_tvNewinShort"
+                        style="@style/MultiLineTextView"
+                        android:layout_marginTop="@dimen/verticalViewNormalSmallGap"
+                        android:gravity="start"
+                        android:text="@{model.newsResultModel.title}"
+                        android:layout_width="wrap_content"
+                        android:textSize="@dimen/appSmallTextSize"
+                        android:textStyle="bold"/>
+
+                <TextView
+                        android:id="@+id/newsFeedRow_tvNewsWrittenBy"
+                        style="@style/MultiLineTextView"
+                        android:layout_marginTop="@dimen/verticalViewNormalSmallGap"
+                        android:gravity="start"
+                        android:text="@{model.newsResultModel.byline}"
+                        android:layout_width="wrap_content"
+                        android:textSize="@dimen/appVerySmallTextSize"/>
+            </LinearLayout>
+            <TextView
+                    android:id="@+id/newsFeedRow_tvDate"
+                    android:drawableTop="@drawable/calender"
+                    style="@style/RowTextView"
+                    android:drawablePadding="@dimen/_5sdp"
+                    android:paddingEnd="@dimen/mainLayoutPadingNormal"
+                    app:formatDate="@{model.newsResultModel.publishedDate}"
+                    android:paddingStart="@dimen/mainLayoutPadingNormal"/>
+        </LinearLayout>
+        <ScrollView android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scrollbars="none">
+            <TextView
+                    android:id="@+id/newsFeedRow_tvDetails"
+                    style="@style/MultiLineTextView"
+                    android:layout_marginTop="@dimen/verticalViewNormalSmallGap"
+                    android:gravity="start"
+                    android:padding="@dimen/mainLayoutPadingNormal"
+                    android:layout_width="wrap_content"
+                    android:textSize="@dimen/_18sdp"
+                    app:setDetails="@{model.newsResultModel}"/>
+        </ScrollView>
+    </LinearLayout>
+</layout>

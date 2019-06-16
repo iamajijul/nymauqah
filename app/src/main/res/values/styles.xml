@@ -1,0 +1,99 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="NY.Theme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+       <!-- <item name="android:ambientShadowAlpha">1.0</item>
+        <item name="android:spotShadowAlpha">1.0</item>-->
+    </style>
+    <style name="MultiLineTextView">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textLineColor</item>
+        <item name="android:textSize">@dimen/appSmallTextSize</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textIsSelectable">false</item>
+        <item name="android:cursorVisible">false</item>
+
+    </style>
+    <style name="AppCustomToolBarHeader">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/appCustomToolBarHeight</item>
+        <item name="android:textColor">@color/headerTextColor</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/appMediumTextSize</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textIsSelectable">false</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:background">@color/headerBackColor</item>
+        <item name="android:elevation">@dimen/headerElevation</item>
+        <item name="android:fontFamily">@font/cloister_black</item>
+
+    </style>
+
+    <style name="AppRecyclerView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:paddingStart">@dimen/mainLayoutPadingNormal</item>
+        <item name="android:paddingEnd">@dimen/mainLayoutPadingNormal</item>
+        <item name="android:paddingBottom">@dimen/mainLayoutPadingNormal</item>
+        <item name="android:layoutAnimation">@anim/layout_animation_fall_down</item>
+    </style>
+    <style name="appParentLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/appBackColor</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+
+    <style name="AppCardViewWithMarginTop" parent="Widget.MaterialComponents.CardView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/mainLayoutPadingNormal</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="cardElevation">@dimen/cardElevation</item>
+        <item name="cardCornerRadius">@dimen/appCardCornerRadiusNormal</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="RowTextView">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textLineColor</item>
+        <item name="android:textSize">@dimen/appNormalTextSize</item>
+        <item name="android:lines">1</item>
+        <item name="android:gravity">start</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:textIsSelectable">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_marginTop">@dimen/_2sdp</item>
+
+    </style><!-- Base application theme. -->
+</resources>

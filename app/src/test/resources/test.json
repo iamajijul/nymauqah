@@ -1,0 +1,1177 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1889,
+  "results": [
+    {
+      "url": "https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html",
+      "adx_keywords": "United States Defense and Military Forces;Unidentified Flying Objects (UFO);Pilots;United States Navy;Military Aircraft;Defense Department;East Coast (US)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By HELENE COOPER, RALPH BLUMENTHAL and LESLIE KEAN",
+      "type": "Article",
+      "title": "‘Wow, What Is That?’ Navy Pilots Report Unexplained Flying Objects",
+      "abstract": "No one at the Pentagon is saying that the objects are extraterrestrial, but the Navy has issued new classified guidance for reporting unexplained aerial phenomena.",
+      "published_date": "2019-05-26",
+      "source": "The New York Times",
+      "id": 100000006515727,
+      "asset_id": 100000006515727,
+      "views": 1,
+      "des_facet": [
+        "UNITED STATES DEFENSE AND MILITARY FORCES",
+        "UNIDENTIFIED FLYING OBJECTS (UFO)",
+        "PILOTS",
+        "MILITARY AIRCRAFT"
+      ],
+      "org_facet": [
+        "UNITED STATES NAVY",
+        "DEFENSE DEPARTMENT"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "EAST COAST (US)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Navy pilots from the VFA-11 “Red Rippers” squadron aboard the aircraft carrier Theodore Roosevelt in 2015. The squadron began noticing strange objects just after the Navy upgraded the radar systems on its F/A-18 fighter planes.",
+          "copyright": "Adam Ferguson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/28/us/politics/00dc-ufo2/00dc-ufo2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/28/us/politics/00dc-ufo2/merlin_98047735_3653fd43-cc8d-4ece-8947-bc0653b1d92d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/28/us/politics/00dc-ufo2/merlin_98047735_3653fd43-cc8d-4ece-8947-bc0653b1d92d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/d948908f-9a60-5b1d-9c1f-8470e014eca3"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/06/04/us/graduate-quotes-trump-obama.html",
+      "adx_keywords": "Commencement Speeches;Bowling, Ben;Trump, Donald J;Obama, Barack;Kentucky;United States Politics and Government",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By LAURA M. HOLSON",
+      "type": "Article",
+      "title": "Kentucky Crowd Cheers Valedictorian’s Trump Quote, Then Learns Obama Said It",
+      "abstract": "A high school valedictorian quoted Trump. The crowd roared. Then: “Just kidding,” he said. “That was Barack Obama.”",
+      "published_date": "2018-06-04",
+      "source": "The New York Times",
+      "id": 100000005935794,
+      "asset_id": 100000005935794,
+      "views": 2,
+      "des_facet": [
+        "COMMENCEMENT SPEECHES"
+      ],
+      "org_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "per_facet": [
+        "BOWLING, BEN",
+        "TRUMP, DONALD J",
+        "OBAMA, BARACK"
+      ],
+      "geo_facet": [
+        "KENTUCKY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ben Bowling, the valedictorian of Bell County High School.",
+          "copyright": "via Facebook",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/06/04/us/05xp-graduation2/05xp-graduation2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/04/us/05xp-graduation2/05xp-graduation2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/04/us/05xp-graduation2/05xp-graduation2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/02160478-cbb7-538d-87fa-a5777305e833"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/08/opinion/sunday/women-dieting-wellness.html",
+      "adx_keywords": "Women and Girls;Food;Diet and Nutrition;Eating Disorders",
+      "column": "",
+      "section": "Opinion",
+      "byline": "By JESSICA KNOLL",
+      "type": "Article",
+      "title": "Smash the Wellness Industry",
+      "abstract": "Why are so many smart women falling for its harmful, pseudoscientific claims?",
+      "published_date": "2019-06-08",
+      "source": "The New York Times",
+      "id": 100000006520173,
+      "asset_id": 100000006520173,
+      "views": 3,
+      "des_facet": [
+        "WOMEN AND GIRLS",
+        "FOOD"
+      ],
+      "org_facet": [
+        "DIET AND NUTRITION",
+        "EATING DISORDERS"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At its core, wellness demonizes calorically dense and delicious foods.",
+          "copyright": "YinYang/E+, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/06/11/opinion/sunday/09Knoll2/09Knoll2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/11/opinion/sunday/09Knoll2/09Knoll2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/11/opinion/sunday/09Knoll2/09Knoll2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/bde6ef07-eb85-5369-be18-1c16140089ef"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/19/business/deutsche-bank-trump-kushner.html",
+      "adx_keywords": "Deutsche Bank AG;Trump, Donald J;Kushner, Jared;Banking and Financial Institutions;Presidential Election of 2016;Money Laundering;United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Kushner Cos;Trump Organization;McFadden, Tammy",
+      "column": null,
+      "section": "Business",
+      "byline": "By DAVID ENRICH",
+      "type": "Article",
+      "title": "Deutsche Bank Staff Saw Suspicious Activity in Trump and Kushner Accounts",
+      "abstract": "Anti-money-laundering specialists proposed filing “suspicious activity reports” about transactions connected to President Trump and Jared Kushner. Bank managers said no.",
+      "published_date": "2019-05-19",
+      "source": "The New York Times",
+      "id": 100000006486252,
+      "asset_id": 100000006486252,
+      "views": 4,
+      "des_facet": [
+        "BANKING AND FINANCIAL INSTITUTIONS",
+        "PRESIDENTIAL ELECTION OF 2016",
+        "MONEY LAUNDERING"
+      ],
+      "org_facet": [
+        "DEUTSCHE BANK AG",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "KUSHNER COS",
+        "TRUMP ORGANIZATION"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "KUSHNER, JARED",
+        "MCFADDEN, TAMMY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tammy McFadden, a former Deutsche Bank employee, saw potentially suspicious transactions involving the company of Jared Kushner, President Trump’s son-in-law and adviser, she said.",
+          "copyright": "Willie J. Allen Jr. for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/13/business/00deutschetrump2/merlin_154640208_f27c634b-ab02-42af-8c94-10d4b01d8ddf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/13/business/00deutschetrump2/00deutschetrump2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/13/business/00deutschetrump2/00deutschetrump2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/eab760cc-e3b3-53e0-ad48-2ea8b3af0a80"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/08/opinion/sunday/hospitals-doctors-nurses-burnout.html",
+      "adx_keywords": "Nursing and Nurses;Doctors;Hospitals;Productivity;Electronic Health Records;Health Insurance and Managed Care",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By DANIELLE OFRI",
+      "type": "Article",
+      "title": "The Business of Health Care Depends on Exploiting Doctors and Nurses",
+      "abstract": "One resource seems infinite and free: the professionalism of caregivers.",
+      "published_date": "2019-06-08",
+      "source": "The New York Times",
+      "id": 100000006541919,
+      "asset_id": 100000006541919,
+      "views": 5,
+      "des_facet": [
+        "NURSING AND NURSES",
+        "DOCTORS",
+        "HOSPITALS",
+        "HEALTH INSURANCE AND MANAGED CARE"
+      ],
+      "org_facet": [
+        "PRODUCTIVITY",
+        "ELECTRONIC HEALTH RECORDS"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": " ",
+          "copyright": "Delcan & Company",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/5d42b3a1-de4c-5e6b-9ea4-4bd0a552e73e"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/arts/television/best-movies-on-netflix.html",
+      "adx_keywords": "Netflix Inc;Movies;Video Recordings, Downloads and Streaming",
+      "column": "",
+      "section": "Arts",
+      "byline": "By JASON BAILEY",
+      "type": "Interactive",
+      "title": "The 50 Best Movies on Netflix Right Now",
+      "abstract": "We’ve plucked out the 50 best films currently streaming on Netflix in the United States. Take a look.",
+      "published_date": "2019-03-06",
+      "source": "The New York Times",
+      "id": 100000006330108,
+      "asset_id": 100000006330108,
+      "views": 6,
+      "des_facet": [
+        "MOVIES",
+        "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+      ],
+      "org_facet": [
+        "NETFLIX INC"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uma Thurman in “Pulp Fiction.”",
+          "copyright": "Linda R. Chen/Miramax Films",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/3769fe44-d294-5a71-8281-5220a39673bf"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/22/us/politics/donald-trump-speech-pelosi-schumer.html",
+      "adx_keywords": "Trump, Donald J;Pelosi, Nancy;Schumer, Charles E;United States Politics and Government",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By PETER BAKER, KATIE ROGERS and EMILY COCHRANE",
+      "type": "Article",
+      "title": "Trump, Angered by ‘Phony’ Inquiries, Blows Up Meeting With Pelosi and Schumer",
+      "abstract": "After Speaker Nancy Pelosi accused him of a “cover-up,” the president said he would not work with Democrats until they stopped investigating him.",
+      "published_date": "2019-05-22",
+      "source": "The New York Times",
+      "id": 100000006521506,
+      "asset_id": 100000006521506,
+      "views": 7,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "PELOSI, NANCY",
+        "SCHUMER, CHARLES E"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke about the Mueller investigation on Wednesday in the Rose Garden.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/22/us/politics/22dc-trump-promovid/22dc-trump-sub-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/22/us/politics/22dc-trump-promovid/22dc-trump-promovid-mediumThreeByTwo210-v6.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/22/us/politics/22dc-trump-promovid/22dc-trump-promovid-mediumThreeByTwo440-v6.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/7e939228-eee3-5a78-b1cd-cddea958c257"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/17/world/americas/venezuela-economy.html",
+      "adx_keywords": "Venezuela;Politics and Government;Economic Conditions and Trends;Maduro, Nicolas;Embargoes and Sanctions;Power Failures and Blackouts",
+      "column": null,
+      "section": "World",
+      "byline": "By ANATOLY KURMANAEV",
+      "type": "Article",
+      "title": "Venezuela’s Collapse Is the Worst Outside of War in Decades, Economists Say",
+      "abstract": "Butchers have stopped selling meat cuts in favor of offal, fat shavings and cow hooves, the only animal protein many of their customers can afford.",
+      "published_date": "2019-05-17",
+      "source": "The New York Times",
+      "id": 100000006501504,
+      "asset_id": 100000006501504,
+      "views": 8,
+      "des_facet": [
+        "POLITICS AND GOVERNMENT",
+        "ECONOMIC CONDITIONS AND TRENDS"
+      ],
+      "org_facet": [
+        "EMBARGOES AND SANCTIONS",
+        "POWER FAILURES AND BLACKOUTS"
+      ],
+      "per_facet": [
+        "MADURO, NICOLAS"
+      ],
+      "geo_facet": [
+        "VENEZUELA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Maracaibo, men searching for refuse that can be salvaged or recycled.",
+          "copyright": "Meridith Kohut for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/10/world/venez-econ15/venez-econ15-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/10/world/venez-econ15/venez-econ15-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/10/world/venez-econ15/venez-econ15-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/71f719a4-ce24-5fee-a76e-0ad9922ddf3f"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/26/world/asia/mount-everest-deaths.html",
+      "adx_keywords": "Mount Everest;Mountaineering;Mountains;Politics and Government;Deaths (Fatalities);Accidents and Safety;Nepal",
+      "column": null,
+      "section": "World",
+      "byline": "By KAI SCHULTZ, JEFFREY GETTLEMAN, MUJIB MASHAL and BHADRA SHARMA",
+      "type": "Article",
+      "title": "‘It Was Like a Zoo’: Death on an Unruly, Overcrowded Everest",
+      "abstract": "This has been one of the deadliest climbing seasons on the world’s highest peak. Veteran climbers blame increased permits for climbers, including many who are inexperienced.",
+      "published_date": "2019-05-26",
+      "source": "The New York Times",
+      "id": 100000006527032,
+      "asset_id": 100000006527032,
+      "views": 9,
+      "des_facet": [
+        "MOUNTAINEERING",
+        "MOUNTAINS",
+        "POLITICS AND GOVERNMENT",
+        "ACCIDENTS AND SAFETY"
+      ],
+      "org_facet": [
+        "DEATHS (FATALITIES)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "MOUNT EVEREST",
+        "NEPAL"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A long line of climbers waiting to summit Mount Everest on May 22.",
+          "copyright": "@nimsdai/Project Possible, via Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/27/world/26everest2-print/26everest2-print-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/27/world/26everest2-print/26everest2-print-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/27/world/26everest2-print/26everest2-print-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/aae3e7fc-204d-5416-8653-49e99ba446fe"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/17/business/media/grumpy-cat-dead.html",
+      "adx_keywords": "Grumpy Cat;Deaths (Obituaries);Cats;Social Media",
+      "column": null,
+      "section": "Business",
+      "byline": "By DANIEL VICTOR",
+      "type": "Article",
+      "title": "Grumpy Cat, Internet Celebrity With a Piercing Look of Contempt, Is Dead at 7",
+      "abstract": "The frowning feline whose permanent scowl spoke for all of us in our darkest moments died in the arms of her “mommy” on Tuesday, her family said.",
+      "published_date": "2019-05-17",
+      "source": "The New York Times",
+      "id": 100000006514547,
+      "asset_id": 100000006514547,
+      "views": 10,
+      "des_facet": [
+        "DEATHS (OBITUARIES)",
+        "CATS",
+        "SOCIAL MEDIA"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grumpy Cat appeared on NBC’s “Today” show in 2014.",
+          "copyright": "Peter Kramer/NBC, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/world/17grumpycat-1/17grumpycat-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/world/17grumpycat-1/17grumpycat-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/world/17grumpycat-1/17grumpycat-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/ea1213a1-d450-57e1-8cf3-9db631f6fb42"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/27/world/asia/pakistan-china-trafficking.html",
+      "adx_keywords": "Pakistan;China;Human Trafficking;Marriages;Women's Rights;Women and Girls;Prostitution",
+      "column": null,
+      "section": "World",
+      "byline": "By SALMAN MASOOD and AMY QIN",
+      "type": "Article",
+      "title": "She Thought She’d Married a Rich Chinese Farmer. She Hadn’t.",
+      "abstract": "Pakistan has charged dozens of people with trafficking women to China as wives. Rabia Kanwal was one bride who says she was lied to. In China, her husband has a different story.",
+      "published_date": "2019-05-27",
+      "source": "The New York Times",
+      "id": 100000006508137,
+      "asset_id": 100000006508137,
+      "views": 11,
+      "des_facet": [
+        "HUMAN TRAFFICKING",
+        "MARRIAGES"
+      ],
+      "org_facet": [
+        "WOMEN'S RIGHTS",
+        "WOMEN AND GIRLS",
+        "PROSTITUTION"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "PAKISTAN",
+        "CHINA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rabia Kanwal and Zhang Shuchen were married in Islamabad in January. Eight days after they went to his home in China, she left to return to Pakistan.",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/16/world/00pakistan-china-4/00pakistan-china-4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/16/world/00pakistan-china-4/00pakistan-china-4-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/16/world/00pakistan-china-4/00pakistan-china-4-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/b408a91a-3f60-5c9c-8b0f-faa62f06473c"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/30/us/politics/trump-russia-help-elected.html",
+      "adx_keywords": "Trump, Donald J;Mueller, Robert S III;Special Prosecutors (Independent Counsel);Russian Interference in 2016 US Elections and Ties to Trump Associates;Impeachment;United States Politics and Government;Justice Department;Barr, William P",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By PETER BAKER and EILEEN SULLIVAN",
+      "type": "Article",
+      "title": "Trump Accuses Mueller of a Personal Vendetta as Calls for Impeachment Grow",
+      "abstract": "President Trump dismissed comments from Robert S. Mueller III, the special counsel, that the Russia inquiry did not clear the president of wrongdoing. “He’s somebody that dislikes Donald Trump.”",
+      "published_date": "2019-05-30",
+      "source": "The New York Times",
+      "id": 100000006532341,
+      "asset_id": 100000006532341,
+      "views": 12,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "IMPEACHMENT",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "MUELLER, ROBERT S III",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/30/us/politics/30dc-trumprussia-videosub/30dc-trumprussia-videosub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/30/us/politics/30dc-trumprussia-videosub/30dc-trumprussia-videosub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/30/us/politics/30dc-trumprussia-videosub/30dc-trumprussia-videosub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/8951aae2-a150-5fa6-8303-e8991812fc4b"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/05/30/us/children-heart-surgery-cardiac.html",
+      "adx_keywords": "Surgery and Surgeons;Heart;Children and Childhood;Ethics and Official Misconduct;Hospitals;UNC Children's Hospital;UNC Health Care;Deaths (Fatalities);University of North Carolina;Doctors;Malpractice",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ELLEN GABLER",
+      "type": "Interactive",
+      "title": "Doctors Were Alarmed: ‘Would I Have My Children Have Surgery Here?’",
+      "abstract": "Secret recordings captured physicians’ concerns that more children seemed to fare poorly after heart surgery. Their hospital kept doing the operations.",
+      "published_date": "2019-05-30",
+      "source": "The New York Times",
+      "id": 100000006528829,
+      "asset_id": 100000006528829,
+      "views": 13,
+      "des_facet": [
+        "SURGERY AND SURGEONS",
+        "HEART",
+        "ETHICS AND OFFICIAL MISCONDUCT",
+        "HOSPITALS",
+        "DEATHS (FATALITIES)",
+        "DOCTORS",
+        "MALPRACTICE"
+      ],
+      "org_facet": [
+        "CHILDREN AND CHILDHOOD",
+        "UNC CHILDREN'S HOSPITAL",
+        "UNC HEALTH CARE",
+        "UNIVERSITY OF NORTH CAROLINA"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "North Carolina Children’s Hospital, part of the University of North Carolina medical center, performs about 100 to 150 pediatric heart surgeries a year.",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/30/us/30cardiac4/merlin_151018062_f631daca-d8b5-45de-aeae-184b81a271fe-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/30/us/30cardiac4/merlin_151018062_f631daca-d8b5-45de-aeae-184b81a271fe-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/30/us/30cardiac4/merlin_151018062_f631daca-d8b5-45de-aeae-184b81a271fe-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/48fb396a-4263-56cc-8818-8a869072364e"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html",
+      "adx_keywords": "Cain, Caleb;YouTube.com;Fringe Groups and Movements;Discrimination;Video Recordings, Downloads and Streaming;Propaganda;United States Politics and Government",
+      "column": "",
+      "section": "Technology",
+      "byline": "By KEVIN ROOSE",
+      "type": "Interactive",
+      "title": "The Making of a YouTube Radical",
+      "abstract": "Caleb Cain was a college dropout looking for direction. He turned to YouTube, where he was pulled into a world filled with conspiracy theories, misogyny and racism.",
+      "published_date": "2019-06-08",
+      "source": "The New York Times",
+      "id": 100000006545383,
+      "asset_id": 100000006545383,
+      "views": 14,
+      "des_facet": [
+        "FRINGE GROUPS AND MOVEMENTS",
+        "DISCRIMINATION",
+        "VIDEO RECORDINGS, DOWNLOADS AND STREAMING",
+        "PROPAGANDA"
+      ],
+      "org_facet": [
+        "YOUTUBE.COM",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "per_facet": [
+        "CAIN, CALEB"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Caleb Cain’s viewing history on YouTube was filled with videos from people whose simple production techniques often belied the sensational nature of their claims.",
+          "copyright": "Clockwise from top left: Lauren Southern, Stefan Molyneux, Paul Joseph Watson and Rebel Media",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/06/08/business/youtube-radical-twobytwo/youtube-radical-twobytwo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/08/business/youtube-radical-twobytwo/youtube-radical-twobytwo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/08/business/youtube-radical-twobytwo/youtube-radical-twobytwo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/47873cc9-87a7-5ae5-be16-5c4057dbb8c3"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/14/style/james-charles-makeup-artist-youtube.html",
+      "adx_keywords": "Social Media;Fashion and Apparel;Cosmetics and Toiletries;Charles, James (Makeup Artist);Westbrook, Tati;YouTube.com",
+      "column": null,
+      "section": "Style",
+      "byline": "By VALERIYA SAFRONOVA",
+      "type": "Article",
+      "title": "James Charles, From ‘CoverBoy’ to Canceled",
+      "abstract": "The 19-year-old internet personality and makeup artist has provoked the ire of beauty YouTube.",
+      "published_date": "2019-05-14",
+      "source": "The New York Times",
+      "id": 100000006509205,
+      "asset_id": 100000006509205,
+      "views": 15,
+      "des_facet": [
+        "SOCIAL MEDIA",
+        "FASHION AND APPAREL"
+      ],
+      "org_facet": [
+        "COSMETICS AND TOILETRIES",
+        "YOUTUBE.COM"
+      ],
+      "per_facet": [
+        "CHARLES, JAMES (MAKEUP ARTIST)",
+        "WESTBROOK, TATI"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Charles at Gucci&rsquo;s Met Gala after-party on May 6. In the week since, he lost millions of YouTube subscribers after another influencer, Tati Westbrook, shared a critical video about him.",
+          "copyright": "Krista Schlueter for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/fashion/14Jamescharles-met-gala/14Jamescharles-met-gala-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/fashion/14Jamescharles-met-gala/merlin_154504278_191f95fd-0be9-4b5b-84fa-bca67f4730a9-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/fashion/14Jamescharles-met-gala/merlin_154504278_191f95fd-0be9-4b5b-84fa-bca67f4730a9-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/f0598a1b-04ca-5a5c-8aff-528f6036924d"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/05/14/magazine/cbd-cannabis-cure.html",
+      "adx_keywords": "2019 Health Issue;Cannabis Foods and Products;Seizures (Medical);Medical Marijuana;Marijuana",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By MOISES VELASQUEZ-MANOFF",
+      "type": "Interactive",
+      "title": "Can CBD Really Do All That?",
+      "abstract": "How one molecule from the cannabis plant came to be seen as a therapeutic cure-all.",
+      "published_date": "2019-05-14",
+      "source": "The New York Times",
+      "id": 100000006504038,
+      "asset_id": 100000006504038,
+      "views": 16,
+      "des_facet": [
+        "CANNABIS FOODS AND PRODUCTS",
+        "MARIJUANA"
+      ],
+      "org_facet": [
+        "SEIZURES (MEDICAL)",
+        "MEDICAL MARIJUANA"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Various products that have been advertised as containing CBD.",
+          "copyright": "Jamie Chung for The New York Times. Prop styling by Anna Surbatovich.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/magazine/19mag-CBD-02/19mag-CBD-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/magazine/19mag-CBD-02/19mag-CBD-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/19/magazine/19mag-CBD-02/19mag-CBD-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/4910bb4b-d110-5dc7-bb7c-712df5be2de3"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/25/us/nsa-hacking-tool-baltimore.html",
+      "adx_keywords": "Cyberwarfare and Defense;Cyberattacks and Hackers;Classified Information and State Secrets;Computer Security;Extortion and Blackmail;Espionage and Intelligence Services;National Security Agency;Federal Bureau of Investigation;Shadow Brokers;Baltimore (Md)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By NICOLE PERLROTH and SCOTT SHANE",
+      "type": "Article",
+      "title": "In Baltimore and Beyond, a Stolen N.S.A. Tool Wreaks Havoc",
+      "abstract": "American cities are being hijacked with an N.S.A. cyberweapon that has already done billions of dollars in damage overseas. The N.S.A. will say nothing.",
+      "published_date": "2019-05-25",
+      "source": "The New York Times",
+      "id": 100000006525385,
+      "asset_id": 100000006525385,
+      "views": 17,
+      "des_facet": [
+        "CYBERWARFARE AND DEFENSE",
+        "CLASSIFIED INFORMATION AND STATE SECRETS"
+      ],
+      "org_facet": [
+        "CYBERATTACKS AND HACKERS",
+        "COMPUTER SECURITY",
+        "EXTORTION AND BLACKMAIL",
+        "ESPIONAGE AND INTELLIGENCE SERVICES",
+        "NATIONAL SECURITY AGENCY",
+        "FEDERAL BUREAU OF INVESTIGATION",
+        "SHADOW BROKERS"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "BALTIMORE (MD)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The National Security Agency headquarters in Maryland. A leaked N.S.A. cyberweapon, EternalBlue, has caused billions of dollars in damage worldwide. A recent attack took place in Baltimore, the agency’s own backyard.",
+          "copyright": "Jim Lo Scalzo/EPA, via REX, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/25/multimedia/25nsa-01/25nsa-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/25/multimedia/25nsa-01/merlin_155371923_6b11a80d-c00a-41bc-a77a-2fa05767d991-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/25/multimedia/25nsa-01/merlin_155371923_6b11a80d-c00a-41bc-a77a-2fa05767d991-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/02c82591-6b14-5282-afb9-77ccc55d2a91"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/05/16/arts/television/binge-watch-game-of-thrones.html",
+      "adx_keywords": "Television;Game of Thrones (TV Program);Home Box Office",
+      "column": "Critic’s Notebook",
+      "section": "Arts",
+      "byline": "By WESLEY MORRIS",
+      "type": "Article",
+      "title": "I Ignored ‘Game of Thrones’ for 8 Years. Then Inhaled It in 5 Weeks.",
+      "abstract": "For more than 70 hours, Wesley Morris caught up with the dragons, beheadings and brinkmanship before the series finale. Here’s what he learned.",
+      "published_date": "2019-05-16",
+      "source": "The New York Times",
+      "id": 100000006509524,
+      "asset_id": 100000006509524,
+      "views": 18,
+      "des_facet": [
+        "TELEVISION"
+      ],
+      "org_facet": [
+        "HOME BOX OFFICE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photographs by HBO",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/16/arts/16GOTwesley-combo-promo/16GOTwesley-combo-promo-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/16/arts/16GOTwesley-combo-promo/16GOTwesley-combo-promo-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/16/arts/16GOTwesley-combo-promo/16GOTwesley-combo-promo-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/33a60b6b-ab4f-510e-ae2e-ded6bd95a2e2"
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2019/05/14/style/generation-xers.html",
+      "adx_keywords": "Generation X;Music;Pop and Rock Music;Television;Fashion and Apparel;Magazines;Smoking and Tobacco;Lollapalooza (Music Festival);Nineteen Hundred Nineties;Benetton Group SpA;Dr Martens;Drug Abuse Resistance Education (DARE);Living Colour (Music Group);Parents Music Resource Center;TLC (Music Group);Bonet, Lisa;Cobain, Kurt;Gore, Tipper;Kravitz, Lenny;Reeves, Keanu;Prada, Miuccia;Twin Peaks (TV Program)",
+      "column": "",
+      "section": "Style",
+      "byline": "",
+      "type": "Interactive",
+      "title": "Gen X Is a Mess",
+      "abstract": "The great generation that barely was.",
+      "published_date": "2019-05-14",
+      "source": "The New York Times",
+      "id": 100000006490125,
+      "asset_id": 100000006490125,
+      "views": 19,
+      "des_facet": [
+        "GENERATION X",
+        "MUSIC",
+        "POP AND ROCK MUSIC",
+        "TELEVISION"
+      ],
+      "org_facet": [
+        "FASHION AND APPAREL",
+        "MAGAZINES",
+        "SMOKING AND TOBACCO",
+        "LOLLAPALOOZA (MUSIC FESTIVAL)",
+        "NINETEEN HUNDRED NINETIES",
+        "BENETTON GROUP SPA",
+        "DR MARTENS",
+        "DRUG ABUSE RESISTANCE EDUCATION (DARE)",
+        "LIVING COLOUR (MUSIC GROUP)",
+        "PARENTS MUSIC RESOURCE CENTER",
+        "TLC (MUSIC GROUP)"
+      ],
+      "per_facet": [
+        "BONET, LISA",
+        "COBAIN, KURT",
+        "GORE, TIPPER",
+        "KRAVITZ, LENNY",
+        "REEVES, KEANU",
+        "PRADA, MIUCCIA"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lenny Kravitz and Lisa Bonet",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/05/14/fashion/14genx-generation-xers-promo-STILL/8c73df20ff1f4aaa8c53806dba72ad30-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/14/fashion/14genx-generation-xers-promo-STILL/8c73df20ff1f4aaa8c53806dba72ad30-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/05/14/fashion/14genx-generation-xers-promo-STILL/8c73df20ff1f4aaa8c53806dba72ad30-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/f2717793-1a5c-581f-8d8c-0a2dde2e2dcc"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/06/11/us/master-recordings-universal-fire.html",
+      "adx_keywords": "Music;Universal Music Group;Audio Recordings, Downloads and Streaming;Archives and Records;Fires and Firefighters",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By NIRAJ CHOKSHI",
+      "type": "Article",
+      "title": "Recordings by Elton John, Nirvana and Thousands More Lost in Fire",
+      "abstract": "A New York Times investigation has revealed that decades of Universal Music Group treasures burned in 2008.",
+      "published_date": "2019-06-11",
+      "source": "The New York Times",
+      "id": 100000006544784,
+      "asset_id": 100000006544784,
+      "views": 20,
+      "des_facet": [
+        "MUSIC",
+        "AUDIO RECORDINGS, DOWNLOADS AND STREAMING",
+        "FIRES AND FIREFIGHTERS"
+      ],
+      "org_facet": [
+        "UNIVERSAL MUSIC GROUP",
+        "ARCHIVES AND RECORDS"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters helped remove canisters from a burning vault at Universal Studios in Universal City, Calif., on June 1, 2008.",
+          "copyright": "Juan Guerra/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/06/16/magazine/11xp-music/11xp-music-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/16/magazine/11xp-music/7e3da02d32674b4abbbc40506de5a1d6-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/16/magazine/11xp-music/7e3da02d32674b4abbbc40506de5a1d6-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/7eb1a64a-1163-51db-acc5-46ff0baf5cab"
+    }
+  ]
+}

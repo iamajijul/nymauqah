@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ny</string>
+    <string name="the_new_york_times">The New York Times</string>
+    <string name="areYouSure">Are you sure to exit?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="Alert">Alert</string>
+</resources>

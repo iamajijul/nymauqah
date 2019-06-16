@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="appCustomToolBarHeight">@dimen/_50sdp</dimen>
+    <dimen name="headerElevation">@dimen/_5sdp</dimen>
+    <dimen name="mainLayoutPadingNormal">@dimen/_12sdp</dimen>
+    <dimen name="cardElevation">@dimen/_5sdp</dimen>
+    <dimen name="appCardCornerRadiusNormal">@dimen/_10sdp</dimen>
+    <!--TextSize-->
+    <dimen name="appVerySmallTextSize">@dimen/_8sdp</dimen>
+    <dimen name="appSmallTextSize">@dimen/_10sdp</dimen>
+    <dimen name="appNormalTextSize">@dimen/_12sdp</dimen>
+    <dimen name="appMediumTextSize">@dimen/_15sdp</dimen>
+
+
+    <dimen name="verticalViewNormalSmallGap">@dimen/_2sdp</dimen>
+</resources>
