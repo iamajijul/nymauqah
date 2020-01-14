@@ -1,10 +1,13 @@
 package com.ajijul.ny.news_feed.view
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
+import androidx.lifecycle.ViewModelProvider
 import com.ajijul.ny.base.BaseFragment
 import androidx.lifecycle.ViewModelProviders
 import com.ajijul.ny.R
@@ -15,44 +18,63 @@ import com.ajijul.ny.news_feed.model.Result
 import androidx.recyclerview.widget.DefaultItemAnimator
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ajijul.ny.MainActivity
+import com.ajijul.ny.databinding.NewsFeedListFragmentBinding
 import com.ajijul.ny.news_feed.adapter.interfaces.SetOnNewsClickListener
 import com.ajijul.ny.news_feed.news_details.view.NewsDetailsFragmentView
 import kotlinx.android.synthetic.main.news_feed_list_fragment.*
+import javax.inject.Inject
 
 
-class NewsFeedListFragmentView : BaseFragment(), SetOnNewsClickListener {
-    override fun onItemClick(result: Result) {
-        (activity as MainActivity).fragmentTransaction(NewsDetailsFragmentView.newInstance(result),"Details")
-    }
-
-    var articleArrayList: ArrayList<Result> = ArrayList()
-    var newsAdapter: FeedListRecyclerAdapter? = null
+class NewsFeedListFragmentView : BaseFragment() {
+    //    override fun onItemClick(result: Result) {
+//        (activity as MainActivity).fragmentTransaction(NewsDetailsFragmentView.newInstance(result),"Details")
+//    }
     var newsViewModel: NewsFeedsViewModel? = null
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return inflater.inflate(R.layout.news_feed_list_fragment, container, false)
+    lateinit var binding: NewsFeedListFragmentBinding
+    @Inject
+    lateinit var viewModelProviderFactory: ViewModelProvider.Factory
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        newsViewModel = ViewModelProviders.of(this, viewModelProviderFactory)
+            .get(NewsFeedsViewModel::class.java)
+
+    }
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        binding = DataBindingUtil.inflate(
+            inflater, R.layout.news_feed_list_fragment, container, false
+        )
+        binding.myViewModel = newsViewModel
+        binding.lifecycleOwner = this; // <-- this enables MutableLiveData to be update on your UI
+        return binding.getRoot()
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        newsViewModel = ViewModelProviders.of(this).get(NewsFeedsViewModel::class.java)
-        newsViewModel?.init()
+
         newsViewModel?.getNewsRepository()?.observe(this,
-            Observer<NyNewsFeedBaseModel> {
-                nyNewsFeedList_progress.visibility = View.GONE
-                if (it != null)
-                    newsAdapter?.notifyAdapter(it.results)
+            Observer {
             })
-        setupRecyclerView()
+        newsViewModel?.getShowDetailsData()?.observe(this, Observer {
+            (activity as MainActivity).fragmentTransaction(
+                NewsDetailsFragmentView.newInstance(it),
+                "Details"
+            )
+
+        })
+        newsViewModel?.getShowProgress()?.observe(this, Observer {
+            if (it)
+                nyNewsFeedList_progress.visibility = View.VISIBLE
+            else nyNewsFeedList_progress.visibility = View.GONE
+
+        })
     }
 
-    private fun setupRecyclerView() {
-        if (newsAdapter == null) {
-            newsAdapter = FeedListRecyclerAdapter(context, articleArrayList, this)
-            nyNewsFeedList_rv.adapter = newsAdapter
-        } else {
-            newsAdapter?.notifyDataSetChanged()
-        }
-    }
 
 }

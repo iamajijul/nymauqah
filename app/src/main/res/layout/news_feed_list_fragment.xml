@@ -1,20 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              xmlns:app="http://schemas.android.com/apk/res-auto"
-              android:orientation="vertical"
-              style="@style/appParentLayout">
-    <ProgressBar
-            android:id="@+id/nyNewsFeedList_progress"
-            android:layout_width="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:padding="@dimen/mainLayoutPadingNormal"
-            android:layout_height="wrap_content"
-    />
-    <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/nyNewsFeedList_rv"
-            style="@style/AppRecyclerView"
-            android:background="@color/appBackColor"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager">
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        >
 
-    </androidx.recyclerview.widget.RecyclerView>
-</LinearLayout>
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+                name="myViewModel"
+                type="com.ajijul.ny.news_feed.viewModel.NewsFeedsViewModel" />
+    </data>
+
+    <LinearLayout
+            style="@style/appParentLayout"
+            android:orientation="vertical">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/no_data_found"
+                android:layout_gravity="center_horizontal"
+                android:padding="@dimen/_10sdp"
+                android:visibility="@{myViewModel.getData().size()==0 ? View.VISIBLE : View.GONE}" />
+
+        <ProgressBar
+                android:id="@+id/nyNewsFeedList_progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:padding="@dimen/mainLayoutPadingNormal"
+                />
+
+        <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/nyNewsFeedList_rv"
+                style="@style/AppRecyclerView"
+                android:background="@color/appBackColor"
+                app:adapter="@{myViewModel.adapter}"
+                app:data="@{myViewModel.getData()}"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager">
+
+        </androidx.recyclerview.widget.RecyclerView>
+    </LinearLayout>
+</layout>

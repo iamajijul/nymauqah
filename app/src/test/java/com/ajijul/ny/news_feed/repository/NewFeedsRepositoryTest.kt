@@ -39,7 +39,7 @@ class NewFeedsRepositoryTest : KoinTest {
         }
 
         startKoin(listOf(module {
-            single { NewFeedsRepository() }
+            single { NewFeedsRepository(null) }
         }))
         get<NewFeedsRepository>().apply {
             authenticateBlocking()
