@@ -4,8 +4,6 @@ import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import com.ajijul.ny.gateway.HttpClient
 import com.ajijul.ny.gateway.network.NyServiceClient
-import com.ajijul.ny.gateway.network.ServiceError
-import com.ajijul.ny.gateway.network.ServiceResponse
 import com.ajijul.ny.news_feed.model.NyNewsFeedBaseModel
 import io.reactivex.Observer
 import io.reactivex.android.schedulers.AndroidSchedulers
@@ -16,22 +14,6 @@ import javax.inject.Inject
 
 class NewFeedsRepository @Inject constructor(var newsApi: NyServiceClient?) {
 
-
-//    companion object {
-//        private var newsRepository: NewFeedsRepository? = null
-//        private var newsApi: NyServiceClient? = null
-//        fun getInstance(): NewFeedsRepository? {
-//            if (newsRepository == null) {
-//                newsRepository = init()
-//            }
-//            return newsRepository
-//        }
-//
-//        fun init(): NewFeedsRepository? {
-//            newsApi = NyServiceClient()
-//            return NewFeedsRepository()
-//        }
-//    }
 
     fun authenticateBlocking(): NyNewsFeedBaseModel? {
         val apiEndPointPG = HttpClient.getHttpClient()
@@ -51,7 +33,6 @@ class NewFeedsRepository @Inject constructor(var newsApi: NyServiceClient?) {
 
                 override fun onNext(list: NyNewsFeedBaseModel) {
                     Log.d("ee", "" + list.results?.size!!);
-                    // allCurrencyList = new ArrayList<>(coinList.getData().values());
                     newsData.value = list
                 }
 
@@ -60,8 +41,6 @@ class NewFeedsRepository @Inject constructor(var newsApi: NyServiceClient?) {
                 }
 
                 override fun onComplete() {
-                    // Updates UI with data
-                    // cPresenter.updateCoinList(allCurrencyList);
                 }
             })
 
